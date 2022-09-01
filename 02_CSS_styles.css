@@ -1,0 +1,9 @@
+/* all p tags get a green background */
+p {
+  background-color: green;
+}
+
+/* h1 tags get a blue foreground */
+h1 {
+  color: blue;
+}
